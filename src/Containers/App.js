@@ -10,7 +10,7 @@ import Footer from "./Footer";
 class App extends Component {
   render() {
     return (
-      <div className="container justify-content-center">
+      <div className="container">
         <div className="row">
           <Header />
         </div>
