@@ -9,6 +9,8 @@ class Contact extends Component {
           <br />
           <input type="text" name="email" placeholder="EMAIL" />
           <br />
+          <input type="text" name="phoneNumber" placeholder="PHONE NUMBER" />
+          <br />
           <textarea name="message" cols="30" rows="10" placeholder="MESSAGE" />
           <br />
           <input type="submit" />
