@@ -1,0 +1,59 @@
+.header_container {
+  width: 100%;
+  height: 785px;
+  background-color: grey; }
+
+.nav {
+  justify-content: center; }
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  font-size: 15px;
+  color: white; }
+
+.logo_img {
+  margin: 0 auto;
+  width: 25%;
+  display: block;
+  margin-top: 178px; }
+
+.about_us_container {
+  background-color: green;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.services_container {
+  background-color: yellow;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.contact_box_container {
+  background-color: pink;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.team_container {
+  background-color: #6c6cf7;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.footer_container {
+  background-color: #8a04ff;
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
