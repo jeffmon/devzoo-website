@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from "../Assets/header.svg";
+import logo from "../Assets/devZoo_white.png";
 
 class Header extends Component {
   render() {
@@ -19,7 +19,7 @@ class Header extends Component {
             Team
           </a>
         </nav>
-        <img src={logo} className="header_img" alt="logo" />
+        <img src={logo} className="logo_img" alt="logo" />
       </header>
     );
   }
